@@ -29,4 +29,3 @@ console.log(crunchMachine());
 console.log(typesOfPets());
 
 console.log('From your testing it seems that you can only export one value at a time, Edan agrees with you');
-

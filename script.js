@@ -1,3 +1,5 @@
+const typesOfPets = require("./storage.js");
+
 console.log('Hello from serverland! 🦍');
 
 let hat = 'Top Hat! 🎩'
@@ -23,3 +25,8 @@ function crunchMachine(){
 }
 
 console.log(crunchMachine());
+
+console.log(typesOfPets());
+
+console.log('From your testing it seems that you can only export one value at a time, Edan agrees with you');
+
